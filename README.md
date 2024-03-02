@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4871258-Web-development&psig=AOvVaw1XxvUQ-xZiFMcxqAJiZhkP&ust=1709499183461000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDChb281oQDFQAAAAAdAAAAABAQ)]
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Maryanne</h1>
 
 <p align="center">
