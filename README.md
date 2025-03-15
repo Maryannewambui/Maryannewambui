@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Maryanne</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Maryanne</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=I'm+an+ICT+support;Full-stack+Web+Developer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=I'm+an+IT+support;Full-stack+Software+Developer&center=true&width=380&height=45"></a>
 </p>
 
 
@@ -12,11 +12,11 @@
 
 -🤩 I always try to explore and learn something new
 
-- 🔭 I’m currently working on **Booking Platform**
+- 🔭 I’m currently working on **Production Live Dashboard**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **PHP**
 
-- 💬 Ask me about **Python, anything IT related**
+- 💬 Ask me about **anything IT related**
 
 - 🌟 Goals: contibute to technology worldwide as a woman in tech
 
